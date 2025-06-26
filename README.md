@@ -8,4 +8,7 @@ It contains all 26 tracks from original game but you can add literally any .mp3 
 
 <div align="center">PREVIEW</div>
 
-<video src='video/prev.mp4' width=180/>
+
+
+https://github.com/user-attachments/assets/9c9a71dd-3657-47bc-be2e-5179db81e2fd
+
