@@ -1,0 +1,11 @@
+## Recreated music panel from NFS Underground 1 because i can
+
+It contains all 26 tracks from original game but you can add literally any .mp3 you want
+
+>GameOverlay.Net used for graphics
+
+>Naudio used to play .mp3 files
+
+<div align="center">PREVIEW</div>
+
+![](prev.mp4)
