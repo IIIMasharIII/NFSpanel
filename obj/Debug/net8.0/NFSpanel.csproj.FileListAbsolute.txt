@@ -24,3 +24,4 @@ C:\Users\NetWorm\source\repos\NFSpanel\bin\Debug\net8.0\NAudio.Core.dll
 C:\Users\NetWorm\source\repos\NFSpanel\bin\Debug\net8.0\NAudio.Midi.dll
 C:\Users\NetWorm\source\repos\NFSpanel\bin\Debug\net8.0\NAudio.Wasapi.dll
 C:\Users\NetWorm\source\repos\NFSpanel\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\NetWorm\source\repos\NFSpanel\obj\Debug\net8.0\NFSpanel.sourcelink.json

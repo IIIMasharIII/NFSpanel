@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NFSpanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f5aed622acf109bcf737270e8de9df02c34902c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NFSpanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NFSpanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

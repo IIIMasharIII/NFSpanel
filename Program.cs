@@ -57,19 +57,10 @@ namespace entryPoint
                     {
                         wave.Init(audio);
                         wave.Play();
-                        wave.Volume = 0.1f;
+                        wave.Volume = 0.02f;
                         while (wave.PlaybackState == PlaybackState.Playing)
                         {
-                            if(startPlaying && wave.GetPositionTimeSpan().ToString() == "00:00:00")
-                            {
-                                startPlaying = false;
-                                break;
-                            }
-                            if(!startPlaying && wave.GetPositionTimeSpan().ToString() != "00:00:00")
-                            {
-                                startPlaying = true;
-                            }
-                            Debug.WriteLine(wave.GetPositionTimeSpan());
+
                         }
                     }
                 }
