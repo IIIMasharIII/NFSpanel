@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/mashar/NFSpanel/NFSpanel.csproj": {}
+    "C:\\Users\\NetWorm\\source\\repos\\NFSpanel\\NFSpanel.csproj": {}
   },
   "projects": {
-    "/home/mashar/NFSpanel/NFSpanel.csproj": {
+    "C:\\Users\\NetWorm\\source\\repos\\NFSpanel\\NFSpanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mashar/NFSpanel/NFSpanel.csproj",
+        "projectUniqueName": "C:\\Users\\NetWorm\\source\\repos\\NFSpanel\\NFSpanel.csproj",
         "projectName": "NFSpanel",
-        "projectPath": "/home/mashar/NFSpanel/NFSpanel.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/mashar/NFSpanel/obj/",
+        "projectPath": "C:\\Users\\NetWorm\\source\\repos\\NFSpanel\\NFSpanel.csproj",
+        "packagesPath": "C:\\Users\\NetWorm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NetWorm\\source\\repos\\NFSpanel\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\NetWorm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

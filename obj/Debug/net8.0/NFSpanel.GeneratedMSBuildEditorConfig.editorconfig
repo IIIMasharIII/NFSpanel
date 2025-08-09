@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NFSpanel
-build_property.ProjectDir = /home/mashar/NFSpanel/
+build_property.ProjectDir = C:\Users\NetWorm\source\repos\NFSpanel\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
