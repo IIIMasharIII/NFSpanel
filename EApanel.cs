@@ -51,8 +51,8 @@ namespace NFSpanel
         public static void Initialize
             (Graphics graphics)
         {
-            if (EAlogo == null) EAlogo = graphics.CreateImage(".../1.png");
-            if (musicPanel == null) musicPanel = graphics.CreateImage(".../2.png");
+            if (EAlogo == null) EAlogo = graphics.CreateImage("..\\..\\..\\1.png");
+            if (musicPanel == null) musicPanel = graphics.CreateImage("..\\..\\..\\2.png");
             if (musicBrush == null)
             {
                 musicBrush = new SolidBrush(graphics.GetRenderTarget(), Color.FromARGB(System.Drawing.Color.Snow.ToArgb()));

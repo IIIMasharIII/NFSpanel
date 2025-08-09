@@ -42,7 +42,7 @@ namespace entryPoint
 
             _window.Create();
 
-            FileInfo[] files = new DirectoryInfo(".../nfsmusic").GetFiles();
+            FileInfo[] files = new DirectoryInfo("..\\..\\..\\nfsmusic").GetFiles();
 
 
             while (true)
@@ -51,7 +51,7 @@ namespace entryPoint
                 string[] info = musicFile.Replace(".mp3", "").Split("_-_");
 
                 _panel = new EApanel(info[0], info[2], $"\"{info[1]}\"");
-                using (AudioFileReader audio = new AudioFileReader("nfsmusic\\" + musicFile))
+                using (AudioFileReader audio = new AudioFileReader("..\\..\\..\\nfsmusic\\" + musicFile))
                 {
                     using (WaveOutEvent wave = new WaveOutEvent())
                     {
