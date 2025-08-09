@@ -42,7 +42,7 @@ namespace entryPoint
 
             _window.Create();
 
-            FileInfo[] files = new DirectoryInfo("nfsmusic").GetFiles();
+            FileInfo[] files = new DirectoryInfo(".../nfsmusic").GetFiles();
 
 
             while (true)
